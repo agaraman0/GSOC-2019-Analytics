@@ -17,6 +17,7 @@
 + Python
 + Selenium
 + Pandas
++ Seaborn
 + Web-Scraping (BeautifoulSoup)
 
 <br>
